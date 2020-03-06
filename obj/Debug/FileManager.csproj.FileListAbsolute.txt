@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Admin\source\repos\FileManager\bin\Debug\FileManager.exe
+C:\Users\Admin\source\repos\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Admin\source\repos\FileManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\FileManager\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\FileManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.exe
+C:\Users\Admin\source\repos\FileManager\obj\Debug\FileManager.pdb
