@@ -20,6 +20,7 @@ namespace FileManager
         public Form1()
         {
             InitializeComponent();
+            notifyIcon1.Icon = SystemIcons.Hand;
         }
 
         private void go(string where)
@@ -98,6 +99,24 @@ namespace FileManager
             }
             else metroLabel1.Text = "Произошла ошибка при копировании файла!";
             
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+            this.Hide();
+        }
+
+        private void notifyIcon1_MouseClick(object sender, MouseEventArgs e)
+        {
+            if(e.Button == MouseButtons.Right)
+            {
+                Environment.Exit(0);
+            }
+            else if (e.Button == MouseButtons.Left)
+            {
+                this.Show();
+            }
         }
     }
 }
